@@ -3,21 +3,8 @@
 
 <head>
 	<title>Rathana.online.store</title>
-		<meta http-equiv="content-type" content="text/html; charset=Utf-8" />
+	<meta http-equiv="content-type" content="text/html; charset=Utf-8" />
    	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
-     <script type="text/javascript">
-	   function el_t(el,cl){if(el)el.classList.toggle(cl);}
-	window.addEventListener('load', (event) => {
-		let alh = document.getElementsByClassName('lhead');
-		for (let lh of alh) {
-			lh.addEventListener('click', function (event) {
-				el_t(this,'collapse');
-				el_t(this.nextElementSibling,'hide');
-				el_t(this.nextElementSibling.nextElementSibling,'hide');
-			});
-		}
-	});
-	</script>
 	<style type="text/css">
 	body {
 		background-color: #fff;
@@ -167,7 +154,7 @@
 <body>
 	<div id="top">
 		<nav>
-			rathanaphon.github.io HTML Site Map</nav>
+	         rathanaphon.github.io HTML Site Map</nav>
 		<h3>
 <span>Last updated: 2024, March 7 17:54:25<br />
 Total pages: 1</span>
