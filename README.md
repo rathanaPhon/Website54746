@@ -119,7 +119,7 @@
 		margin: 2px;
 		background: #fff;
 		border-radius: 10px;
-    display: inline-block;
+                display: inline-block;
 	}
 	.pager span {
 		border: #ccc 1px solid;
@@ -147,7 +147,7 @@ Total pages: 1</span>
 						<a href="https://rathanaphon.github.io/wedpage/" title="Rathana.online.store">Rathana.online.store</a>
 			<br /><small>Rathana.online.store ask royal patner</small>
 		</li>		
-	</ul>
+    </ul>
 	</li>			
 </ul>	
 	</li>
