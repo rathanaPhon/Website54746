@@ -124,9 +124,8 @@
 	.pager span {
 		border: #ccc 1px solid;
 	}
-	</style>
+</style>
 </head>
-
 <body>
 	<div id="top">
 		<nav>
