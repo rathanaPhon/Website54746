@@ -11,7 +11,7 @@
 </urlset>
 </body>
 </html>
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>https://rathanaphon.github.io/wedpage</loc>
@@ -25,12 +25,12 @@
       <changefreq>weekly</changefreq>
    </url>
    <url>
-      <loc>https://rathanaphon.github.io/wedpage/</catalog?item=73&amp;desc=vacation_new_zealand</loc>
+      <loc>https://rathanaphon.github.io/wedpage/catalog?item=73&amp;desc=vacation_new_cambodai</loc>
       <lastmod>2024-03-07T17:47:20+00:00</lastmod>
       <changefreq>weekly</changefreq>
    </url>
    <url>
-      <loc>http://www.example.com/catalog?item=74&amp;desc=vacation_newfoundland</loc>
+      <loc>http://www.sitemaps.org/schemas/sitemap/0.9/catalog?item=74&amp;desc=vacation_newfoundland</loc>
       <lastmod>2024-03-07T17:47:20+00:00</lastmod>
       <priority>1.0000</priority>
    </url>
