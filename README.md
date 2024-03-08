@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -141,9 +142,9 @@ Total pages: 1</span>
 					<li class="lsub">			
 			<ul class="ultree level-2 has-pages">
 				<li class="lhead" title="Click to toggle">Website54746/<span class="lcount">1 page</span></li>		
-					<li class="lpagelist">
+			<li class="lpagelist">
 					<ul class="ulpages">		
-					<li class="lpage">
+			<li class="lpage">
 						<a href="https://rathanaphon.github.io/wedpage/" title="Rathana.online.store">Rathana.online.store</a>
 			<br /><small>Rathana.online.store ask royal patner</small>
 		</li>		
@@ -152,7 +153,7 @@ Total pages: 1</span>
 </ul>	
 	</li>
  </ul>			
-	</div>
+</div>
 <div id="footer">
 Website54746 created with PRO-Sitemaps.com - <a href="https://Pro-sitemaps.com">PRO Sitemap Service</a>
  </div>
