@@ -13,14 +13,11 @@
 		font-family: Roboto, "Arial Narrow", "Helvetica", "Arial", sans-serif;
 		margin: 0;
 	}
-
 	#top {
-
 		background-color: #b1d1e8;
 		font-size: 16px;
 		padding-bottom: 40px;
 	}
-
 	nav,#cont {
 		max-width: 1000px;
 		margin: auto;
@@ -28,7 +25,6 @@
 	}
 	nav {
 		font-size: 36px;
-
 		border-bottom-left-radius: 6px;
 		border-bottom-right-radius: 6px;
 		background-color: #f3f3f3;
@@ -39,65 +35,54 @@
 		z-index: 1;
 	}
 	.logo1 {
-		max-height: 50px;
-		vertical-align: middle;
+	max-height: 50px;
+   ertical-align: middle;
 	}
-
 	h3 {
-		margin: auto;
-		padding: 10px;
-		color: #666;
-		text-align: center;
+	 margin: auto;
+  	padding: 10px;
+	color: #666;
+	text-align: center;
 	}
-
-	#cont {
-		font-size: 24px;
-		color: #999;
-		font-weight: normal;
-		position: relative;
-		border-radius: 6px;
-		box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
-
+ #cont {
+	font-size: 24px;
+	color: #999;
+	font-weight: normal;
+	position: relative;
+	border-radius: 6px;
+	box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
 		background: #f3f3f3;
-
 		margin-top: -20px ;
 		padding: 20px;
 	}
 	h1 {
-		font-weight: 300;
-		font-size: 36px;
-		color: #333;
+	 font-weight: 300;
+	 font-size: 36px;
+	 color: #333;
 	}
-
 	small {
-		color: #666;
+      color: #666;
 	}
-
 	a:link,
 	a:visited {
-		color: #0180AF;
-		text-decoration: underline;
+     color: #0180AF;
+    text-decoration: underline;
 	}
-
 	a:hover {
-		color: #666;
+     color: #666;
 	}
-
-
 	#footer {
-		padding: 10px;
-		text-align: center;
+     padding: 10px;
+     text-align: center;
 	}
 	ul {
-		margin: 30px;
-		padding: 0px;
-		list-style: square;
+    margin: 30px;
+    padding: 0px;
+	 list-style: square;
 	}
-
 	li {
-		margin: 0px;
+	 margin: 0px;
 	}
-
 	</style>
 </head>
 
@@ -112,7 +97,6 @@ PRO-Sitemaps.com service
 </h3></div>
 	<div id="cont">
 		<h1>PRO Sitemaps: The Easiest Sitemap Solution</h1>
-
 		<ul>
 		<li>No software needs to be installed on your website or computer</li>
 		<li>Can create Web, Images, Video, News sitemaps and RSS feeds</li>
