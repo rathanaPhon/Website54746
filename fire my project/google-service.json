@@ -1,0 +1,36 @@
+{
+  "project_info-folder": {
+    "project_number-folder": "222643976934",
+    "project_url": "https://rathanaphon.github.io/",
+    "project_folder-id": "website.my.project",
+     "storage_bucket": "Website-my.project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "web_app_id": "1:222643976934:web:3f8dc1de75b47a43935927",
+        "wed_client_info": {
+          "package_name": "rathanaphon.github.io"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49nis0VWifZkBCVH-RUWl9nK3d7dcAag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+             "authDomain": "Website-my.project.appspot.com",
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+
+
+
